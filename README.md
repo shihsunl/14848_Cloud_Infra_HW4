@@ -36,3 +36,8 @@ export GOOGLE_APPLICATION_CREDENTIALS="/Users/bensonlin/Project/CMU/14848_Cloud_
 python3 app.py
 ```
 ![UI](screenshot/ui.png)
+
+- Here's the upload function
+You can check util/google_storage_util.py to get more details.
+![upload_function](screenshot/upload_function.png)
+
